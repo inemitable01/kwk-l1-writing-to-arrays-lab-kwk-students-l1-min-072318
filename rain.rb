@@ -3,4 +3,4 @@ rainbow_colors = [
   "default",
   "light_cyan"
 ]
-print color
+print rainbow_colors
