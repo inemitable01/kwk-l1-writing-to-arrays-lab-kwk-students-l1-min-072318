@@ -10,3 +10,4 @@ def change_rainbow_colors
 end
  change_rainbow_colors
  
+ print rainbow_colors
