@@ -3,3 +3,4 @@ rainbow_colors = [
   "default",
   "light_cyan"
 ]
+print color
